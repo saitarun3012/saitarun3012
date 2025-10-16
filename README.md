@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sai Tarun 👋
+Electronics & Communication student | Aspiring AI researcher | Passionate about Python, Web & Cloud Development  
 
-<!--
-**saitarun3012/saitarun3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- **Programming Languages:** Python, Java, C++  
+- **Web & Databases:** HTML, CSS, JavaScript, Tailwind CSS, MySQL, WebRTC  
+- **Frameworks & Libraries:** Streamlit, LangChain, Hugging Face, FastAPI, NumPy, Pandas, Matplotlib  
+- **Tools:** VS Code, GitHub, Postman, Arduino IDE  
 
-Here are some ideas to get you started:
+## 💼 Internship
+- **Exposys Data Lab - Web Developer Intern**  
+  Developed a real-time video calling web app using HTML, CSS, JavaScript, and Firebase WebRTC.  
+  Implemented authentication and media handling for cross-platform support.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+- **[Smart Safety Helmet with Emergency System](link-to-repo)** - Microcontroller-based smart helmet with accident detection and automatic emergency alerts.  
+- **[Medical Chatbot using LLM](link-to-repo)** - Local RAG pipeline medical QA chatbot with Streamlit interface and vector search.  
+- **[Greenhouse Automation](link-to-repo)** - College project automating greenhouse environment monitoring.  
+
+## 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/your-link)
