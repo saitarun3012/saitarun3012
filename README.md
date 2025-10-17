@@ -1,5 +1,5 @@
 # Hi, I'm Sai Tarun 👋
-Electronics & Communication student | Aspiring AI researcher | Passionate about Python, Web & Cloud Development  
+Electronics & Communication Graduate | Aspiring AI researcher | Passionate about Python, Web & Cloud Development  
 
 ## 🛠 Skills
 - **Programming Languages:** Python, Java, C++  
