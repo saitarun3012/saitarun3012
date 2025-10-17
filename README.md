@@ -13,11 +13,10 @@ Electronics & Communication Graduate | Aspiring AI researcher | Passionate about
   Implemented authentication and media handling for cross-platform support.  
 
 ## 🔧 Projects
-- **[Video Calling WebApp]((https://github.com/saitarun3012/video-calling-webapp)**  
+- **[Video Calling WebApp](https://github.com/saitarun3012/video-calling-webapp)**  
   Real-time video calling web application built using HTML, CSS, JavaScript, and Firebase WebRTC
-- **[Smart Safety Helmet with Emergency System]((https://github.com/saitarun3012/Smart-Safety-Helmet)** - Microcontroller-based smart helmet with accident detection and automatic emergency alerts.  
-- **[Medical Chatbot using LLM](link-to-repo)** - Local RAG pipeline medical QA chatbot with Streamlit interface and vector search.  
-- **[Greenhouse Automation](link-to-repo)** - College project automating greenhouse environment monitoring.  
+- **[Smart Safety Helmet with Emergency System](https://github.com/saitarun3012/Smart-Safety-Helmet)** - Microcontroller-based smart helmet with accident detection and automatic emergency alerts.  
+- **[Medical Chatbot using LLM](https://github.com/saitarun3012/Medical-Chatbot-using-LLM)** - Local RAG pipeline medical QA chatbot with Streamlit interface and vector search.    
 
 ## 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/your-link)
+[LinkedIn](www.linkedin.com/in/sai-tarunbg)
