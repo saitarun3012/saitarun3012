@@ -19,4 +19,4 @@ Electronics & Communication Graduate | Aspiring AI researcher | Passionate about
 - **[Medical Chatbot using LLM](https://github.com/saitarun3012/Medical-Chatbot-using-LLM)** - Local RAG pipeline medical QA chatbot with Streamlit interface and vector search.    
 
 ## 📫 Connect with me
-[LinkedIn](www.linkedin.com/in/sai-tarunbg)
+[LinkedIn](http://www.linkedin.com/in/sai-tarunbg)
