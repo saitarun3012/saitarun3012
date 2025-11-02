@@ -2,9 +2,9 @@
 Electronics & Communication Graduate | Aspiring AI researcher | Passionate about Python, Web & Cloud Development  
 
 ## 🛠 Skills
-- **Programming Languages:** Python, Java, C++  
-- **Web & Databases:** HTML, CSS, JavaScript, Tailwind CSS, MySQL, WebRTC  
-- **Frameworks & Libraries:** Streamlit, LangChain, Hugging Face, FastAPI, NumPy, Pandas, Matplotlib  
+- **Programming Languages: Python, JavaScript.
+
+Web Technologies and Databases: HTML, CSS, JavaScript, SQL, Tailwind CSS, MySQL, WebRTC. Cloud & Data Engineering: AWS (S3, Lambda, Glue, Redshift, Athena, EC2), Serverless, Data Pipelines. Frameworks and Libraries: Streamlit, LangChain, Hugging Face, FastAPI, NumPy, Pandas, Matplotlib.  
 - **Tools:** VS Code, GitHub, Postman, Arduino IDE  
 
 ## 💼 Internship
